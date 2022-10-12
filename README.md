@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rbeazley18
-- 👀 I’m interested in Python, Django, HTML, and CSS.
-- 🌱 I’m currently learning Django.
+- 👀 I’m interested in Python, Django, Javascript, React, HTML, and CSS.
+- 🌱 I’m currently learning Javascript and React.
 - 📫 How to reach me: www.linkedin.com/in/robert-beazley
