@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @rbeazley18
-- 👀 I’m interested in Python, Django, Javascript, React, HTML, and CSS.
-- 🌱 I’m currently learning Javascript and React.
+- 👋 Hi, I’m Robert Beazley.
+- 🖥️ I'm seeking a career in software development.
+- 🏠 I live in Chapel Hill, North Carolina.
+- 👀 I’m interested in building React applications.
+- 🌱 I’m currently learning Javascript, React, and Next.js.
 - 📫 How to reach me: www.linkedin.com/in/robert-beazley
+- ⌨️ Coding Portfolio: https://robertbeazley.com/
